@@ -12,39 +12,27 @@
 
 ***
 
-   Title: CozyUI+
+### 如果喜欢 🥰 我的作品，🙏 请务必在网页右上角 ↗️ 给这个项目点颗星星 ⭐Star 感谢您的支持！！！🤩🤩🤩
+
+作者Ｂ站：https://space.bilibili.com/350715147
+
+作者网名：零雾〇五Fogg05
+
+***
+
+###    Title 名称: CozyUI+
    
-   Author: 零雾〇五 Fogg05
+###    Author 作者: 零雾〇五 Fogg05
    
-● This pack is based on:
+● This pack is based on - 作品基于：
 
-○ Fluent Emoji：
+○ Fluent Emoji：https://github.com/microsoft/fluentui-emoji
 
-https://github.com/microsoft/fluentui-emoji
+○ NotoSans：https://github.com/notofonts/noto-cjk
 
-○ NotoSans
+***
 
-https://github.com/notofonts/noto-cjk
-
-
-   名称: CozyUI+
-   
-   作者: 零雾〇五 Fogg05
-   
-● 作品基于：
-
-○ Fluent Emoji：
-
-https://github.com/microsoft/fluentui-emoji
-
-○ NotoSans
-
-https://github.com/notofonts/noto-cjk
-
-
-● Covered mods:
-
-● 作品适配过的MOD：
+### ● Covered mods - 作品适配过的MOD
 
 Apple Skin - 苹果皮
 
@@ -80,28 +68,33 @@ No Chat Reports - 禁用聊天举报
 
 Entity Features - 实体特性
 
+***
 
-● Recipes in the brewing stand - 酿造台配方
+### ● Recipes in the brewing stand - 酿造台配方
 
 All the recipes are drawn on the brewing stand interface to help everyone memorize.
 
 在酿造台界面上绘制了所有的配方，帮助大家记忆。
 
+***
 
-● Small icon in front of enchantment names - 附魔小图标
+### ● Small icon in front of enchantment names - 附魔小图标
 
 In the item description of the Enchanted Book, a small icon has been added in front of enchantment names.
 
 在附魔书的物品介绍中，给附魔属性添加了小图标。
 
-● OptiGUI MOD
+***
+
+### ● OptiGUI MOD
 
 Various colored shulker boxes, droppers, dispensers, and ender chests can be distinguished by the background color.
 
 各种颜色的潜影盒、投掷器和发射器、末影箱的界面可以通过背景颜色区分。
 
+***
 
-● Emoji+ & MCsans+
+### ● Emoji+ & MCsans+
 
 Modify the fontsto high-definition NotoSans and FluentEmoji.
 
@@ -111,15 +104,17 @@ https://github.com/Fogg05/Emoji-Plus
 
 https://github.com/Fogg05/MCsans-Plus
 
+***
 
-● Experience bar RGB - 经验条RGB
+### ● Experience bar RGB - 经验条RGB
 
 Inventory selection boxes and experience bars feature RGB cycling with a very slow gradient, where the colors are continually adjusted to ensure a leisurely and soothing pace.
 
 物品栏选中框、经验条会 RGB 循环渐变，渐变速度非常慢，颜色经过反复调整，确保节奏悠闲舒缓。
 
+***
 
-● Button Animations - UI控件动画
+### ● Button Animations - UI控件动画
 
 Some buttons will have animations.
 
