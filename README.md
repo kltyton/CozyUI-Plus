@@ -20,6 +20,12 @@
 
 ***
 
+材质包现在以 GPL 协议开源，欢迎大家参与创作~
+
+Feel free to join in the creation of my pack, which is now open-source under the GPL license!
+
+***
+
 ###    Title 名称: CozyUI+
    
 ###    Author 作者: 零雾〇五 Fogg05
