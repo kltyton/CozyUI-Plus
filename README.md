@@ -72,6 +72,8 @@ Mod Menu - 模组菜单
 
 No Chat Reports - 禁用聊天举报
 
+Simple Voice Chat - 简单的语音聊天
+
 Entity Features - 实体特性
 
 ***
