@@ -40,41 +40,26 @@ Feel free to join in the creation of my pack, which is now open-source under the
 
 ### ● Covered mods - 作品适配过的MOD
 
-Apple Skin - 苹果皮
-
-Detail Armor Bar - 细节盔甲
-
-Litematica - 投影
-
-MiniHUD - 迷你HUD
-
-和其他MASA全家桶MOD
-
-Replay Mod - 录像回放
-
-Inventory Hud+ - 物品栏HUD+
-
-Dynamic Crosshair - 动态准星
-
-Jade - 玉
-
-Roughly Enough Items - REI物品管理器
-
-Just Enough Items - JEI物品管理器
-
-Inventory Profiles Next - 一键背包整理Next
-
-Xaero's Minimap - Xaero的小地图
-
-Xaero's World MAP - Xaero的世界地图
-
-Mod Menu - 模组菜单
-
-No Chat Reports - 禁用聊天举报
-
-Simple Voice Chat - 简单的语音聊天
-
-Entity Features - 实体特性
+| ModName 模组名称 | Link 链接 | - |
+|:------:|:------:|:------:|
+OptiGUI | [🔗 Modrinth](https://modrinth.com/mod/optigui) | ⭐ Recommended
+Apple Skin - 苹果皮 | [🔗 Modrinth](https://modrinth.com/mod/appleskin) | 🔄 Optional
+Detail Armor Bar - 细节盔甲 | [🔗 Modrinth](https://modrinth.com/mod/detail-armor-bar) | 🔄 Optional
+Litematica - 投影 | [🔗 Modrinth](https://modrinth.com/mod/litematica) | 🔄 Optional
+MiniHUD - 迷你HUD | [🔗 Modrinth](https://modrinth.com/mod/minihud) | 🔄 Optional
+Replay Mod - 录像回放 | [🔗 Modrinth](https://modrinth.com/mod/replaymod) | 🔄 Optional
+Inventory Hud+ - 物品栏HUD+ | [🔗 CurseForge](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge) | 🔄 Optional
+Dynamic Crosshair - 动态准星 | [🔗 Modrinth](https://modrinth.com/mod/dynamiccrosshair) | 🔄 Optional
+Jade - 玉 | [🔗 Modrinth](https://modrinth.com/mod/jade) | 🔄 Optional
+Roughly Enough Items - REI物品管理器 | [🔗 Modrinth](https://modrinth.com/mod/rei) | 🔄 Optional
+Just Enough Items - JEI物品管理器 | [🔗 Modrinth](https://modrinth.com/mod/jei) | 🔄 Optional
+Inventory Profiles Next - 一键背包整理Next | [🔗 Modrinth](https://modrinth.com/mod/inventory-profiles-next) | 🔄 Optional
+Xaero's Minimap - Xaero的小地图 | [🔗 Modrinth](https://modrinth.com/mod/xaeros-minimap) | 🔄 Optional
+Xaero's World MAP - Xaero的世界地图 | [🔗 Modrinth](https://modrinth.com/mod/xaeros-world-map) | 🔄 Optional
+Mod Menu - 模组菜单 | [🔗 Modrinth](https://modrinth.com/mod/modmenu) | 🔄 Optional
+No Chat Reports - 禁用聊天举报 | [🔗 Modrinth](https://modrinth.com/mod/no-chat-reports) | 🔄 Optional
+Simple Voice Chat - 简单的语音聊天 | [🔗 Modrinth](https://modrinth.com/plugin/simple-voice-chat) | 🔄 Optional
+Entity Features - 实体特性 | [🔗 Modrinth](https://modrinth.com/mod/entitytexturefeatures) | 🔄 Optional
 
 ***
 
@@ -124,9 +109,9 @@ Inventory selection boxes and experience bars feature RGB cycling with a very sl
 
 ### ● Button Animations - UI控件动画
 
-Some buttons will have animations.
+Some buttons will be animated in game versions ≥1.21
 
-为部分界面元素添加了动画。
+为部分界面元素添加了动画，需要 ≥1.21
 
 
 
