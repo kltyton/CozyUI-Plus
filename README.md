@@ -40,7 +40,7 @@ Feel free to join in the creation of my pack, which is now open-source under the
 
 ### ● Covered mods - 作品适配过的MOD
 
-| ModName 模组名称 | Link 链接 | - |
+| Mod Name 模组名称 | Link 链接 | - |
 |:------:|:------:|:------:|
 OptiGUI | [🔗 Modrinth](https://modrinth.com/mod/optigui) | ⭐ Recommended
 Apple Skin - 苹果皮 | [🔗 Modrinth](https://modrinth.com/mod/appleskin) | 🔄 Optional
